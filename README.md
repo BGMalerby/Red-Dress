@@ -1,2 +1,2 @@
 # Red-Dress
-App for managing groups and their events
+Inspired by the requirements of a Hash House Harriers (H3) Kennel to keep track of Hashes and attendance for reporting on milestone events and returnees. Other group and event apps seem to lack the tracking and reporting over multiple events. Ideally, this app is a backend for other event planning apps to apply automation and efficiencies to history of events and their attendance for reporting.
